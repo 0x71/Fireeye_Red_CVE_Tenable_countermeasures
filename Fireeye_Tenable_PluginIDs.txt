@@ -1,0 +1,114 @@
+List of CVEs and assocaited Tenable plugin IDs that should limit the effectivness of Fireeye Red Team Tools
+
+CVE-2014-1812 – Windows Local Privilege Escalation	
+https://www.tenable.com/cve/CVE-2014-1812	
+73984
+
+CVE-2019-0708 – RCE of Windows Remote Desktop Services (RDS)	
+https://www.tenable.com/cve/CVE-2019-0708
+7286
+125313
+125073
+125063
+125060
+
+CVE-2017-11774 – RCE in Microsoft Outlook via crafted document execution (phishing)	
+https://www.tenable.com/cve/CVE-2017-11774	
+103752
+
+CVE-2018-15961 – RCE via Adobe ColdFusion (arbitrary file upload that can be used to upload a JSP web shell)	
+https://www.tenable.com/cve/CVE-2018-15961	
+130263
+117480
+
+CVE-2019-19781 – RCE of Citrix Application Delivery Controller and Citrix Gateway	
+https://www.tenable.com/cve/CVE-2019-19781	
+701262
+132879
+132752
+132397
+
+CVE-2019-3398 – Confluence Authenticated Remote Code Execution	
+https://www.tenable.com/cve/CVE-2019-3398	
+98637
+98636
+98635
+98634
+98633
+124281
+
+CVE-2019-11580 - Atlassian Crowd Remote Code Execution	
+https://www.tenable.com/cve/CVE-2019-11580	
+138553
+98660
+98659
+98658
+98657
+98656
+701078
+125477
+
+CVE-2018-13379 – pre-auth arbitrary file reading from Fortinet Fortigate SSL VPN	
+https://www.tenable.com/cve/CVE-2018-13379	
+128552
+125897
+125885
+
+CVE-2020-0688 – Remote Command Execution in Microsoft Exchange	
+https://www.tenable.com/cve/CVE-2020-0688	
+701277
+133617
+
+CVE-2019-11510 – pre-auth arbitrary file reading from Pulse Secure SSL VPNs	
+https://www.tenable.com/cve/CVE-2019-11510	
+127908
+127897
+124766
+
+CVE-2019-0604 – RCE for Microsoft Sharepoint	
+https://www.tenable.com/cve/CVE-2019-0604	
+112368
+112367
+112366
+112365
+122859
+122155
+
+CVE-2020-10189 – RCE for ZoHo ManageEngine Desktop Central	
+https://www.tenable.com/cve/CVE-2020-10189	
+135293
+134677
+
+CVE-2019-8394 – arbitrary pre-auth file upload to ZoHo ManageEngine ServiceDesk Plus	
+https://www.tenable.com/cve/CVE-2019-8394	
+NONE
+
+CVE-2016-0167 – local privilege escalation on older versions of Microsoft Windows	
+https://www.tenable.com/cve/CVE-2016-0167	
+90433
+
+CVE-2020-1472 – Microsoft Active Directory escalation of privileges	
+https://www.tenable.com/cve/CVE-2020-1472	
+143186
+142333
+142110
+141331
+141328
+141273
+141144
+141112
+141072
+140797
+140760
+140677
+140657
+140640
+139493
+139491
+139489
+139488
+139484
+
+CVE-2018-8581 - Microsoft Exchange Server escalation of privileges	
+https://www.tenable.com/cve/CVE-2018-8581	
+118978
