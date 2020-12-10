@@ -81,7 +81,7 @@ https://www.tenable.com/cve/CVE-2020-10189
 
 CVE-2019-8394 – arbitrary pre-auth file upload to ZoHo ManageEngine ServiceDesk Plus	
 https://www.tenable.com/cve/CVE-2019-8394	
-NONE
+143600
 
 CVE-2016-0167 – local privilege escalation on older versions of Microsoft Windows	
 https://www.tenable.com/cve/CVE-2016-0167	
@@ -89,6 +89,12 @@ https://www.tenable.com/cve/CVE-2016-0167
 
 CVE-2020-1472 – Microsoft Active Directory escalation of privileges	
 https://www.tenable.com/cve/CVE-2020-1472	
+143864
+143807
+143732
+143724
+143655
+143641
 143186
 142333
 142110
